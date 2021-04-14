@@ -1,0 +1,16 @@
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\bin\Debug\net5.0\BancoUdemy.exe
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\bin\Debug\net5.0\BancoUdemy.deps.json
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\bin\Debug\net5.0\BancoUdemy.runtimeconfig.json
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\bin\Debug\net5.0\BancoUdemy.runtimeconfig.dev.json
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\bin\Debug\net5.0\BancoUdemy.dll
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\bin\Debug\net5.0\ref\BancoUdemy.dll
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\bin\Debug\net5.0\BancoUdemy.pdb
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\obj\Debug\net5.0\BancoUdemy.csprojAssemblyReference.cache
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\obj\Debug\net5.0\BancoUdemy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\obj\Debug\net5.0\BancoUdemy.AssemblyInfoInputs.cache
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\obj\Debug\net5.0\BancoUdemy.AssemblyInfo.cs
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\obj\Debug\net5.0\BancoUdemy.csproj.CoreCompileInputs.cache
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\obj\Debug\net5.0\BancoUdemy.dll
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\obj\Debug\net5.0\ref\BancoUdemy.dll
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\obj\Debug\net5.0\BancoUdemy.pdb
+C:\Users\jow_t\Desktop\Desenvolvimento\Cursos\C# - Udemy\BancoCursoUdemy\BancoUdemy\obj\Debug\net5.0\BancoUdemy.genruntimeconfig.cache
